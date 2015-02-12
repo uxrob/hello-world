@@ -1,2 +1,5 @@
 # hello-world
-Hello World GitHub project. My first.
+
+
+A Git Hub project by uxRob. Let's go!
+
